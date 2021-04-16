@@ -27,7 +27,7 @@ int main()
 }
 
 /* Write all the test functions */ 
-void test_add(void) {
+void test_detail(void) {
   TEST_ASSERT_EQUAL(122, ABC);
   
   /* Dummy fail*/
