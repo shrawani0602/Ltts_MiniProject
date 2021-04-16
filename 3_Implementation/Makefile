@@ -11,11 +11,21 @@ src/searching.c\
 src/sorting.c\
 src/update.c\
 src/deregister.c\
-src/detail.c
+src/detail.c\
 
 # All test source files
-TEST_SRC = src/calculator_operations.c\
-test/test_calculator_operations.c\
+TEST_SRC = src/registeration.c\
+src/searching.c\
+src/sorting.c\
+src/update.c\
+src/deregister.c\
+src/detail.c\
+test/testregisteration.c\
+tset/testsearching.c\
+test/testsorting.c\
+test/testupdate.c\
+test/testderegister.c\
+test/testdetail.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
