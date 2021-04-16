@@ -1,4 +1,3 @@
-# Behavior Diagrams
+# Behavior Diagrams BANKING SYSTEM
 
-## Add all the Behavior diagrams implememted
 
